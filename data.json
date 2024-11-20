@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "nombre": "La gata bajo la lluvia",
+      "genero": "Balada pop",
+      "descripcion": "Cantante: Rocio Dúrcal",
+      "fecha": "1980 | Duración: 3.39 min"
+    },
+    {
+      "id": 3,
+      "nombre": "Lo mejor de mi vida",
+      "genero": "Banda",
+      "descripcion": "Agrupacion: Banda el Recodo",
+      "fecha": "1999-11-24 | Duración: 3.55 min"
+    },
+    {
+      "id": 4,
+      "nombre": "Amores Fingidos",
+      "genero": "Regional mexicano",
+      "descripcion": "Cantantes: Carlos y José",
+      "fecha": "1980-08-14 | Duración: 2.57 min"
+    },
+    {
+      "id": 5,
+      "nombre": "Nothing Else Metters",
+      "genero": "Heavy metal",
+      "descripcion": "Banda: Metallica",
+      "fecha": "1992-04-20 | Duración: 6.28 min"
+    },
+    {
+      "id": 6,
+      "nombre": "Sin Depedir",
+      "genero": "Pop alternativo",
+      "descripcion": "Cantante: Carla Morrison",
+      "fecha": "2012-12-22 | Duración: 3.22 min"
+    }
+  ]
